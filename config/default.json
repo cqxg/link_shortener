@@ -1,0 +1,4 @@
+{
+    "port": 5000,
+    "mongoUri": "mongodb+srv://cqxg:228228qq@cluster0.1khsa.mongodb.net/link-shortener?retryWrites=true&w=majority"
+}
