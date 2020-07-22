@@ -1,0 +1,35 @@
+{
+  "name": "link_shortener",
+  "version": "1.0.0",
+  "description": "mern stack",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "server": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cqxg/link_shortener.git"
+  },
+  "keywords": [
+    "react",
+    "node",
+    "mongo",
+    "express"
+  ],
+  "author": "cqxg <cqxg@yandex.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cqxg/link_shortener/issues"
+  },
+  "homepage": "https://github.com/cqxg/link_shortener#readme",
+  "dependencies": {
+    "config": "^3.3.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.25"
+  },
+  "devDependencies": {
+    "concurrently": "^5.2.0",
+    "nodemon": "^2.0.4"
+  }
+}
