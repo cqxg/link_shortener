@@ -1,2 +1,2 @@
-# palette  
-https://cqxg.github.io/palette/
+A simple link shortener for own use  
+WiP
