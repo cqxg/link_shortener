@@ -1,0 +1,25 @@
+{
+  "name": "link_shortener",
+  "version": "1.0.0",
+  "description": "mern stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cqxg/link_shortener.git"
+  },
+  "keywords": [
+    "react",
+    "node",
+    "mongo",
+    "express"
+  ],
+  "author": "cqxg <cqxg@yandex.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cqxg/link_shortener/issues"
+  },
+  "homepage": "https://github.com/cqxg/link_shortener#readme"
+}
